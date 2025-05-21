@@ -1,7 +1,7 @@
-<H3>Name: Aadithya R </H3>
-<H3>Register No: 212223240001 </H3>
+<H3>Name: Narendran K </H3>
+<H3>Register No: 212223230135 </H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:</H3>
+<H3>DATE: 21-05-2025 </H3>
 
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 
